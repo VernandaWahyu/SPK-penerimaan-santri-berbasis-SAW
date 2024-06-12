@@ -8,7 +8,7 @@ Website ini dikembangkan menggunakan PHP Native dan Bootstrap css
 *******************
 Fitur Pada Aplikasi ini :
 *******************
-# ADMINISTRATOR #
+# ADMINISTRATOR 
 1. CRUD Data Admin
 2. CRUD Data Kuota
 3. CRUD Data Kriteria
@@ -17,13 +17,13 @@ Fitur Pada Aplikasi ini :
 6. Normalisasi SAW
 7. Laporan Pendaftaran
 
-# USER#
+# USER
 1. Daftar
 2. Cek Hasil Seleksi
 3. Melakukan Pembayaran
 3. Cetak Data Pendaftaran
 
-# FITUR LAINYA#
+# FITUR LAINYA
 1. Landing Page
 2. Hasil Seleksi
 3. Persyaratan
